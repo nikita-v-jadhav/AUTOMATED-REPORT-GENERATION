@@ -48,3 +48,4 @@ python weather_report.py
 Check the generated Weather_Report.pdf in the same folder.
 
 # Output
+[Final_Report.pdf](https://github.com/user-attachments/files/22320164/Final_Report.pdf)
